@@ -6,8 +6,7 @@ Five different AWS services were used: Amplify, Lambda, IAM, API Gateway, and Dy
 
 Final Architecture:
 
-<img width="1145" alt="Screen Shot 2024-03-21 at 2 03 43 PM" src="https://github.com/nkb59/PowerOfMath-AWS-WebApp/assets/42351149/365c5daf-a77a-4bac-8356-33aaa7441b7a">
-
+![Screen Shot 2024-04-02 at 3 26 06 PM](https://github.com/nkb59/PowerOfMath-AWS-WebApp/assets/42351149/b3aacf7c-2b98-4f11-92de-36549b36ca04)
 
 The application is a basic calculator where the user can provide the console with a base number and exponent from which they can expect to receive the correct answer.
 
